@@ -34,3 +34,7 @@ Capteur de Co2 CCS811
 Atomiseur d’eau
 Breadboard
 Arduino
+
+Lien simulations :
+https://www.tinkercad.com/things/2LClGEAcQJ1-tremendous-gogo-lappi/editel
+https://www.tinkercad.com/things/4ArY8JkYqWu-sizzling-wolt-maimu/editel
